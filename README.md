@@ -12,7 +12,7 @@ The application is fully automated with a CI/CD pipeline using GitHub Actions, A
 
 https://ifeanyidivine-dev.vercel.app/
 
-> A custom domain with HTTPS will be added soon.
+> Find me
 
 ---
 
